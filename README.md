@@ -8,3 +8,6 @@ PowerShell
 Python
 1) **convertParquetToCsv.py** - To convert parquet file to csv using python.
 2) **migrate-ftp-s3.py** - To migrate FTP files (recursively) to s3 using python.
+
+JavaScript
+1) **promises_sample.js** - Sample promises syntax
